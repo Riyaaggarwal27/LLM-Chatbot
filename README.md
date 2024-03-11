@@ -7,5 +7,7 @@ Streamlit:The interface is built using Streamlit, a Python library for building 
 The main functionality includes:
 
 Text Input: Users can input text queries  to interact with the chatbot.
+
 Image Upload: Users can upload images, which the chatbot can analyze and provide relevant responses based on the content of the images.
+
 Chat History: Users can see all previous conversations done with the chatbot for a particular session
